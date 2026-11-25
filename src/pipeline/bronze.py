@@ -1,5 +1,7 @@
 """Capa bronze: trae el crudo y lo guarda tal cual, un lote nuevo en cada ingesta.
 
+probando cambios
+
 Es la versión «lista para copiar» del cuaderno `01_construir_paso_a_paso`: el pipeline corre de
 punta a punta con ella, pero trae un problema A PROPÓSITO que se dice en voz alta en clase:
 
